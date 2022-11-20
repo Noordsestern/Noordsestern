@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning BPMN
 - 💞️ I’m looking to collaborate on test- and process automation.
 
+<a rel="me" href="https://fosstodon.org/@noordsestern">Mastodon</a>
 <!---
 Noordsestern/Noordsestern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<a rel="me" href="https://fosstodon.org/@noordsestern">Mastodon</a>
 --->
