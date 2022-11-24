@@ -5,8 +5,4 @@
 - 🌱 I’m currently learning BPMN
 - 💞️ I’m looking to collaborate on test- and process automation.
 
-Find me on <a href="https://fosstodon.org/@noordsestern" rel="nofollow me">Mastodon</a>
-<!---
-Noordsestern/Noordsestern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Follow me on Mastodon](https://img.shields.io/badge/dynamic/json?label=Mastodon&query=totalItems&url=https%3A%2F%2Ffosstodon.org%2Fusers%2Fnoordsestern%2Ffollowers.json&logo=mastodon&style=flat-square)
