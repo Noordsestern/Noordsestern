@@ -1,4 +1,4 @@
-<img src="RoboCon-Helsinki-2023-Github-Presenter.png"/>
+<!--<img src="RoboCon-Helsinki-2023-Github-Presenter.png"/>-->
 
 - 👋 Hi, I’m @Noordsestern
 - 👀 I’m interested in open source, gardening, smart home, in general everything implemented in Python.
